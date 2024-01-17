@@ -2,7 +2,7 @@
 
 A simple console-based dice rolling game written in C#.
 
-![Game Screenshot](./assets/game_screenshot.png)
+![Game Screenshot](./assets/main.png)
 
 ## Overview
 
