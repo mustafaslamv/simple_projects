@@ -13,9 +13,9 @@ A simple calculator application for performing basic arithmetic operations.
 ## Screenshots
 
 ### Manual Mode
-![Manual Mode](/assets/readme_assets/manual.png)
+![Manual Mode](./assets/readme_assets/manual.png)
 
 ### Expression Mode
-![Expression Mode](/assets/readme_assets/exp.png)
+![Expression Mode](./assets/readme_assets/exp.png)
 
 
