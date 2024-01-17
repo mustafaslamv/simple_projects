@@ -2,7 +2,7 @@
 
 A simple calculator application for performing basic arithmetic operations.
 
-![Main Screen](/assets/readme_assets/main.png)
+![Main Screen](Calculator/assets/readme_assets/main.png)
 
 ## Features
 
